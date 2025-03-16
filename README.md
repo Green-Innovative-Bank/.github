@@ -1,5 +1,5 @@
 Green Innovative Bank is an online financial institution founded in Mzimba, Malawi, with a revolutionary approach to banking. Our primary goal is to support and empower sustainable, green businesses while driving solutions to combat climate change. We aim to transform the way the world views and uses money by embracing virtual currency as a primary means of transaction, eliminating paper money to contribute directly to reducing the environmental impact of traditional banking systems.
-In a world where climate change is one of the greatest challenges of our time, Green Innovative Bank stands at the forefront of a new banking era. Our mission goes beyond just providing financial services—it is about creating a positive, long-term impact on the environment while modernizing how we interact with money.
+In a world where climate change is one of the greatest challenges of our time, Green Innovative Bank stands at the forefront of a new banking era. Our mission goes beyond just providing financial services it is about creating a positive, long-term impact on the environment while modernizing how we interact with money.
 ________________________________________
 Our Mission: Revolutionizing the Banking Sector for a Greener Future
 At Green Innovative Bank, we are committed to reshaping the financial landscape to fight the ongoing climate crisis. We firmly believe that the financial sector has a pivotal role to play in creating a sustainable future, and we are passionate about providing innovative solutions to tackle environmental problems.
@@ -11,7 +11,7 @@ Green Innovative Bank is proud to be the first bank in the world to fully embrac
 Our vision is a future where physical currency is obsolete, replaced by secure and efficient virtual currencies. This vision aligns with our commitment to reducing the environmental impact of traditional banking systems and supporting industries that work to heal the planet.
 We understand the urgency of addressing the environmental challenges we face today, which is why we are also dedicated to leading efforts in carbon capture solutions, ensuring that we invest in and promote businesses that focus on carbon reduction technologies. In addition, we are committed to solving issues surrounding electronic waste and plastic pollution, ensuring that sustainable practices extend beyond just banking and into every aspect of business operations.
 ________________________________________
-Our Services. Empowering Sustainable Growth
+Our Services Empowering Sustainable Growth
 Green Innovative Bank provides a range of services tailored to green businesses, individuals, and organizations that share our vision for a sustainable future:
 1.	Virtual Currency Solutions
 As a fully digital bank, we offer seamless access to virtual currency accounts, digital wallets, and secure transaction processing. Customers can manage their money in a sustainable, transparent, and efficient manner, without the need for paper-based financial systems.
@@ -19,7 +19,7 @@ As a fully digital bank, we offer seamless access to virtual currency accounts, 
 We believe in the power of green businesses to make a difference. By offering specialized funding options, investment opportunities, and advisory services, we support entrepreneurs and organizations that focus on sustainable initiatives, renewable energy, and climate solutions. Whether it's solar energy, eco-friendly products, or other green innovations, we are here to support those creating a positive impact on the planet.
 3.	
 4.	Carbon Footprint Reduction Programs
-Green Innovative Bank also collaborates with environmental organizations and government agencies to support and fund projects that reduce carbon emissions. We provide incentives for customers and businesses to adopt more sustainable practices, contributing to the global effort to Afight climate change.
+Green Innovative Bank also collaborates with environmental organizations and government agencies to support and fund projects that reduce carbon emissions. We provide incentives for customers and businesses to adopt more sustainable practices, contributing to the global effort to fight climate change.
 5.	Electronic Waste Management
 As part of our commitment to sustainability, Green Innovative Bank works with specialized partners to manage and reduce electronic waste. We offer services that help businesses and consumers safely dispose of or recycle old electronic devices, preventing harmful e-waste from polluting our environment.
 6.	Plastic Pollution Solutions
